@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+	<title>404</title>
+
+	<!--BOOTSTRAP CSS-->
+	<link rel="stylesheet" href="/../bootstrap/css/bootstrap.css">
+	<!--GLOBAL CSS-->
+	<link rel="stylesheet" href="/../css/style.css">
+	<link rel="stylesheet" href="/../css/owl.carousel.min.css">
+	<link rel="stylesheet" href="/../css/responsive.css">
+	<!--FONT-->
+	<link rel="stylesheet" href="/../fonts/fonts.css">
+</head>
+<body class="page-not-found">
+    <div class="not-found-top">
+	<img src="/../images/404.png" alt="">
+	<p>Страница не найдена :(</p>
+</div>
+
+
+<!--  PAGE PDF-->
+<div class="glm-pdf-holder glm-pdf2 ">
+	<div class="glm-pdf-box">
+		<h6 class="text-center">
+			Пошаговый план эффективного развития бизнеса в PDF-Формате <br/> + 3 видеоурока
+		</h6>
+		<div class="glm-pdf-flex">
+			<div class="glm-pdf-img ">
+				<img src="/../images/pdf.png" class="pdf-glm" alt="">
+			</div>
+			<div class="glm-pdf-content">
+				<p>Скачайте план прямо сейчас! <br/>Вы узнаете 10 ключевых этапов <br/>эффективного развития бизнеса</p>
+				<div class="button-holder">
+					<a href="/platform/glm_2" class="waves-effect waves-light btn-blue">Скачать план</a>
+				</div>
+			</div>
+		</div>
+		
+		
+	</div>
+</div>
+<!-- END  PAGE PDF--><!--JQUERY LIBRARY-->
+	<script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+	<!--IMAGESLOADED-->
+	<script src="/../js/jquery.imagesloaded.min.js"></script>
+	<!--IMAGEFILL(BACKGROUND IMAGE PLUGIN)-->
+	<script src="/../js/jquery-imagefill.js"></script>
+	<!--PAGE SCROLL-->
+	<script src="/../js/SmoothScroll.js"></script>
+	<!--PARALLAX PLUGIN-->
+	<script src="/../js/jquery.parallax-1.1.3.min.js"></script>
+	<script src="/../js/owl.carousel.js"></script>
+	<!--EASING LIBRARY--> 
+	<script src="/../js/jquery.easing.1.3.js"></script>
+	<!--ANIMATION EFFECT PLUGIN-->
+	<script src="/../js/jquery.fadethis.js"></script>
+	<!--OTHER-->
+	<script src="/../js/custom.js"></script>
+
+	<!--INITIAL ANIMATION EFFECT-->
+	<script>$('.animation-content').fadeThis({speed: 500,reverse:false});</script>
+
+	<!--BOOTSTRAP LIBRARY-->
+	<script src="/../bootstrap/js/bootstrap.min.js"></script>
+</body>
+</html>
